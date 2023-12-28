@@ -1,0 +1,35 @@
+
+name:
+    css: '.B_NuCI'
+    type: Text
+
+price:
+    css: '._25b18c'
+    type: Text
+
+rating:
+    css: '._3_L3jD'
+    type: Text
+  
+images:
+    css: '._2E1FGS img'
+    type: Attribute
+    attribute: src
+
+highlights:
+    css: '._2418kt li._21Ahn-'
+    multiple: true
+    type: Text
+
+# offers:
+#     css: '.XUp0WS span._3j4Zjq li._16eBzU col'
+#     multiple: true
+#     type: Text
+offers:
+    css: '.XUp0WS span._3j4Zjq'
+    multiple: true
+    type: Text
+
+product_dis:
+    css: '._3zQntF'
+    type: Text
